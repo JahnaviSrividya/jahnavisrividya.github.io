@@ -7,5 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am someone who loves research and enjoys every second being buried in data. I am very keen on developig my skills to make sure everything i ever produce will be the best of its time. 
   <br><br>
   <a href="https://www.linkedin.com/in/jahnavi-srividya/">View My LinkedIn Profile</a> 
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
   
 
