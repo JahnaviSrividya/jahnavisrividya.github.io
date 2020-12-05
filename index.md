@@ -5,6 +5,7 @@
 ### Projects
 
 [A 2D Convolutional Neural Network Approach for Severity Scoring of Lung Tuberculosis using CT Images](/proj_2d_cnn)
+
 <img src="images/lung-CT.jpg.jpg?raw=true"/>
 
 ---
