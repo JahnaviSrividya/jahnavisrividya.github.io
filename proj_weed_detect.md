@@ -1,0 +1,9 @@
+## Automated Weed Detection System in Smart Farming for Developing Sustainable Agriculture (Paper submitted to International Journal of Environmental Science and Technology (JEST))
+
+
+**Project description:** In the Indian agricultural industry, weedicides are sprayed to the crops collectively without taking into consideration whether there are weeds present among them. More intelligent methods should be adopted to ensure that the crops and soil receive exactly what they need for optimum health and productivity in smart agriculture.
+
+<img src="images/weed-removal-robot.jpg?raw=true"/>
+
+ In the field of precision agriculture, the use of robotic systems
+enabled with cameras for case-specific ministrations is on the rise. In this paper, the crop and weed have been efficiently differentiated by first applying the feature extraction methods followed by machine learning algorithms. The features of the weed and plant are extracted using Histogram of Gradients (HOG) and Speeded- Up Robust Features (SURF). The Machine learning algorithms such as Support Vector Machines (SVM) and Logistic Regression was used for classification of weed and plant. The method which used HOG for feature extraction and SVM for classification shows better results compared to other methods. This model is deployed on a field robot, Weed Detection System (WDS). The system helps in spraying weedicides only wherever it is required, thereby eliminating manual engagement with harmful chemicals and also reducing the number of toxic chemicals that enter through our food. This automated system ultimately helps in sustainable agriculture growth.
