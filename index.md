@@ -5,7 +5,7 @@
 ### Projects
 
 [A 2D Convolutional Neural Network Approach for Severity Scoring of Lung Tuberculosis using CT Images](/proj_2d_cnn)
-<img src="images/lung-CT.jpg.jpg?raw=true"/>
+<img src="images/lung-CT.jpg?raw=true"/>
 
 ---
 [Automated Weed Detection System in Smart Farming for Developing Sustainable Agriculture (Paper submitted to international Journal of Environmental Science and Technology (JEST))](/proj_weed_detect)
@@ -21,11 +21,11 @@
 
 ---
 [SHE-FARER - Safe Trip Recommender](/proj_she_farer)
-<img src="images/fshefarer.png?raw=true"/>
+<img src="images/shefarer.png?raw=true"/>
 
 ---
 [Shoptik - The Social Distancing Enabler](/proj_shoptik)
-<img src="images/friday.jpeg?raw=true"/>
+<img src="images/shoptik.jpeg?raw=true"/>
 
 ---
 ### Certifications 
@@ -74,4 +74,4 @@ Winners - CODHER’20 Anna University
 [Smart India Hackathon 2018](/pdf/SIH2018certificate.pdf)
 
 ---
-- [RANKED 9 th in the CrowdAi challenges2019-Severity Scoring and classification of Tuberculosis. Team name: KAVITHA](https://www.crowdai.org/challenges/imageclef-2019-tuberculosis-severity-scoring/leaderboards)
+[RANKED 9 th in the CrowdAi challenges2019-Severity Scoring and classification of Tuberculosis. Team name: KAVITHA](https://www.crowdai.org/challenges/imageclef-2019-tuberculosis-severity-scoring/leaderboards)
