@@ -25,7 +25,7 @@
 
 ---
 [Shoptik - The Social Distancing Enabler](/proj_shoptik)
-<img src="images/shoptik.jpeg?raw=true"/>
+<img src="images/shoptik.png?raw=true"/>
 
 ---
 ### Certifications 
