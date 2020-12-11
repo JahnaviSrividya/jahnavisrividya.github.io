@@ -1,6 +1,6 @@
 ## Portfolio
 
-I love research and enjoy every second being buried in data. I am very keen on developing my skills and making sure that everything I ever produce is the best of its time. I am great at ideation and problem-solving. Having participated in several prominent hackathons and coming up with top ideas, I want to convert my research into a real-world product.
+I love research and enjoy every second being buried in data. I am very keen on developing my skills and making sure that everything I ever produce is the best of its time. I am great at ideation and problem-solving. Having participated in several prominent hackathons and coming up with top ideas, I aspire to convert my research into a real-world product.
 
 <a href="/pdf/SJahnavi-Resume.pdf" target="blank"> \>My Resume \></a>
 ---
