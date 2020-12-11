@@ -28,7 +28,7 @@ I am a woman who loves research and enjoys every second being buried in data. I 
 
 ---
 [Shoptik - The Social Distancing Enabler](/proj_shoptik)
-<img src="images/shoptik.png?raw=true"/>
+<img src="images/shoptik.jpg?raw=true"/>
 
 ---
 ### Certifications 
