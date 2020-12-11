@@ -4,7 +4,7 @@ description:
   > # your text below (remove <br> elements if you don't need line breaks)
   <center><b>President of Association of Computer Engineers | Chairperson ACM-W student Chapter <br> SSN College of Engineering</b>
   A final year Computer Science and Engineering student, an aspiring Data-Scientist, a vivid Hackathon aficionado. <br> <br>
-  <a href="https://www.linkedin.com/in/jahnavi-srividya/">View My LinkedIn Profile</a><br>
+  <a href="https://www.linkedin.com/in/jahnavi-srividya/">View My LinkedIn Profile</a><br> </center>
 theme: jekyll-theme-minimal
-</center>
+
 future: true
