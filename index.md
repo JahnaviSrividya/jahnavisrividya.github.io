@@ -33,6 +33,9 @@ I am a woman who loves research and enjoys every second being buried in data. I 
 ---
 ### Certifications 
 
+[Artificial Intelligence: Knowledge Representation and Reasoning -ID:18CS18S1271531](http://nptel.ac.in/noc)
+
+---
 [Designing Machine Learning Workflows in Python](https://www.datacamp.com/statement-of-accomplishment/course/e56c220888c492318316631f0cd04b03770ebcb4)
 
 ---
