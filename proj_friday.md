@@ -7,4 +7,4 @@
 **Solution:** This is a voice-enabled coding assistant specially designed for coding data science projects in minutes with minimal coding. The user can give commands in natural language and FRIDAY will convert it into Python code and automatically import the necessary packages. Upon encountering an error, if the user wants to find out the solution, a simple voice command "Debug" is enough to fetch the top answer from StackOverflow in the same screen space. Apart from the benefits to the Dyslexics, this tool can also serve as an educational tool and help beginners in data science to master the concepts in a short span of time.
 
 
-For more informtion about the project check here [DEVFOLIO POST](https://devfolio.co/submissions/friday-1 ).
+For more informtion about the project check here [Project Link](https://devfolio.co/submissions/friday-1 ).
