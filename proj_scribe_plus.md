@@ -10,4 +10,4 @@ symptoms, diagnoses, etc.) in the text generated from the doctor's speech input 
 
 - For Code and other references [GITHUB PROJECT LINK](https://github.com/DeepLearners-SSN).
 
-- Presentation Slides [SCRIBE + PPT](/pdf/FINAL_SIH2020.pdf).
+- Pitch and Results [SCRIBE +](/pdf/FINAL_SIH2020.pdf).
