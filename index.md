@@ -2,7 +2,7 @@
 
 I am a woman who loves research and enjoys every second being buried in data. I am very keen on developing my skills to make sure everything I ever produce will be the best of its time. I am great at ideation and problem solving, having participated in over 10 hackathons and coming up with top ideas I want to start my own company one day and convert my research into a real world product.
 
-<a href="/pdf/SJahnaviSrividya-Resume.pdf" target="blank">View My Resume</a>
+<a href="/pdf/SJahnaviSrividya-Resume.pdf" target="blank"> \>My Resume \></a>
 ---
 
 ### Projects
