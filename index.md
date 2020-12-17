@@ -33,7 +33,7 @@ I love research and enjoy every second being buried in data. I am very keen on d
 
 ---
 [Speech-Emotion Detection](https://github.com/JahnaviSrividya/Speech-emotion-detection)
-<img src="images/speech-emo.jpg?raw=true"/>
+<img src="images/speech-emo.png?raw=true"/>
 ---
 [Sentiment Analysis with Deep Learning Using BERT](https://coursera.org/share/f64442be99fd3e5947a5839b08067dd2)
 
