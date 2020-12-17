@@ -45,6 +45,8 @@ I love research and enjoy every second being buried in data. I am very keen on d
 ---
 [Neural Style Transfer with TensorFlow](https://coursera.org/share/7613d9fe38cf04bcc37028829ef6dcaf)
 
+---
+
 ### Certifications 
 
 
