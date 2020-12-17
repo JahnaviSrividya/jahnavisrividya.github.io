@@ -31,6 +31,20 @@ I love research and enjoy every second being buried in data. I am very keen on d
 <img src="images/shoptik.jpg?raw=true"/>
 
 ---
+[Sentiment Analysis with Deep Learning Using BERT](https://coursera.org/share/f64442be99fd3e5947a5839b08067dd2)
+
+---
+[Named Entity Recognition using LSTMs with Keras](https://coursera.org/share/7ee495c2fed72956068c970c8edde37b)
+
+---
+[Generate Synthetic Images with DCGANs in Keras](https://coursera.org/share/8ca1663e4dc6f8b971bf39f78a8b78ba)
+
+---
+[Image Super Resolution Using Autoencoders in Keras](https://coursera.org/share/61950e99c1ad2ce68294cac2b98d6d57)
+
+---
+[Neural Style Transfer with TensorFlow](https://coursera.org/share/7613d9fe38cf04bcc37028829ef6dcaf)
+
 ### Certifications 
 
 
@@ -60,7 +74,6 @@ I love research and enjoy every second being buried in data. I am very keen on d
 
 ---
 [Deep Learning Onramp - MATLAB](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=4752f22b-1fcd-4a83-be86-1a180e6aa886)
-
 
 ---
 
