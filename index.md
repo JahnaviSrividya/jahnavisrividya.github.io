@@ -11,11 +11,11 @@ I love research and enjoy every second being buried in data. I am very keen on d
 <img src="images/lung-CT.jpg?raw=true"/>
 
 ---
-[Automated Weed Detection System in Smart Farming for Developing Sustainable Agriculture (Paper submitted to international Journal of Environmental Science and Technology (JEST))](/proj_weed_detect)
+[Automated Weed Detection System in Smart Farming for Developing Sustainable Agriculture --Funded by SSN Institutions  (Paper submitted to international Journal of Environmental Science and Technology (JEST))](/proj_weed_detect)
 <img src="images/weed-removal-robot.jpg?raw=true"/>
 
 ---
-[SCRIBE+](/proj_scribe_plus)
+[SCRIBE+  --Finalist Smart India Hackathon 2020](/proj_scribe_plus)
 <img src="images/scribeplus.jpg?raw=true"/>
 
 ---
