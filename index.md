@@ -82,4 +82,17 @@ Winners - CODHER’20 Anna University
 [Smart India Hackathon 2018](/pdf/SIH2018certificate.pdf)
 
 ---
+
+[WMN; Hackathon](https://devfolio.co/submissions/shefarer) 
+
+---
+
+[Hack Off V2.0 Hackathon](https://devfolio.co/submissions/friday-1)
+
+---
+
+[ETHINDIA Online: ChainRunner](https://devfolio.co/submissions/shoptik)
+
+---
+
 [RANKED 9 th in the CrowdAi challenges2019-Severity Scoring and classification of Tuberculosis. Team name: KAVITHA](https://www.crowdai.org/challenges/imageclef-2019-tuberculosis-severity-scoring/leaderboards)
