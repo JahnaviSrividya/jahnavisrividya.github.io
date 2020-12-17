@@ -4,6 +4,7 @@ I love research and enjoy every second being buried in data. I am very keen on d
 
 <a href="/pdf/SJahnavi-Resume.pdf" target="blank"> \>My Resume \></a>
 ---
+---
 
 ### Projects
 
