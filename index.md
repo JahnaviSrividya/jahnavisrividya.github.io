@@ -66,7 +66,7 @@ I love research and enjoy every second being buried in data. I am very keen on d
 
 ### Hackathons
 
-Winners - CODHER’20 Anna University
+[Winners - CODHER’20 Anna University](https://www.linkedin.com/posts/jahnavi-srividya_womenintech-womenengineers-stem-activity-6645923373266362368-14as)
 <img src="images/codher.png?raw=true"/>
 
 ---
