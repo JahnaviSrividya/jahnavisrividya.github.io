@@ -8,6 +8,11 @@ I love research and enjoy every second being buried in data. I am very keen on d
 ### Internship
 [Compeete.com - Data Science Intern](/pdf/Jahnavi_intern_certificate (1).pdf)
 
+---
+[TakenMind - Data Analytics Intern](/pdf/intern-takenmind.pdf)
+
+---
+
 ### Projects
 
 [A 2D Convolutional Neural Network Approach for Severity Scoring of Lung Tuberculosis using CT Images](/proj_2d_cnn)
