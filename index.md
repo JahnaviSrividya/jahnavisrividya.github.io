@@ -6,6 +6,9 @@ I love research and enjoy every second being buried in data. I am very keen on d
 ---
 ---
 ### Internships
+[Hippo Video: Video CX Platform - AI/ML Intern]
+
+---
 [Compeete.com - Data Science Intern](/pdf/Jahnavi_intern_certificate (1).pdf)
 
 ---
