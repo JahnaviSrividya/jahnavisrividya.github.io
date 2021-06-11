@@ -6,10 +6,10 @@ I love research and enjoy every second being buried in data. I am very keen on d
 ---
 ---
 ### Internships
-[Hippo Video: Video CX Platform - AI/ML Intern (May 2021 - present)] ()
+[Hippo Video: Video CX Platform - AI/ML Intern (May 2021 - present)](https://www.hippovideo.io/)
 
 ---
-[Compeete.com - Data Science Intern  (March 2020 - July 2020](/pdf/Jahnavi_intern_certificate (1).pdf)
+[Compeete.com - Data Science Intern  (March 2020 - July 2020)](/pdf/Jahnavi_intern_certificate (1).pdf)
 
 ---
 [TakenMind - Data Analytics Intern (December 2018)](/pdf/intern-takenmind.pdf)
